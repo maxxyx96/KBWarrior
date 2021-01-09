@@ -7,3 +7,4 @@ Game Controls:
 - Press Enter to start the game
 - Type stuffs out and press enter to deal damage to the enemy. the more you type, the more damage you deal :)
 - Added a keyword "bomb" to shoot a bomb that deals more damage than what it normally should.
+- p.s. You might sound like a baby if you type too much
